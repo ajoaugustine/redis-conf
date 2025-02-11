@@ -61,9 +61,6 @@ fips = fips_sect
 [default_sect]
 activate = 1
 
-[fips_sect]
-activate = 1
-module = /usr/local/openssl-3.4/lib/ossl-modules/fips.so
 # The fips section name should match the section name inside the
 # included fipsmodule.cnf.
 # fips = fips_sect
