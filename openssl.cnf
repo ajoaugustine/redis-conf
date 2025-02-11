@@ -56,7 +56,7 @@ providers = provider_sect
 # List of providers to load
 [provider_sect]
 default = default_sect
-fips = fips_sect
+#fips = fips_sect
 
 [default_sect]
 activate = 1
